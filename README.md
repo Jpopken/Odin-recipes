@@ -1,0 +1,1 @@
+This is my first shot at making a practice website. It will be a simple recipe website and focus strictly on HTML basics.
